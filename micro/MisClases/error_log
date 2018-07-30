@@ -1,0 +1,930 @@
+[09-Nov-2017 15:41:42 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/DriverBD.php on line 2
+[09-Nov-2017 15:41:42 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/DriverBD.php on line 2
+[09-Nov-2017 15:49:56 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 15:49:56 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 15:49:56 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 341 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 15:49:56 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:11
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(341): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 11
+[09-Nov-2017 15:51:21 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 15:51:21 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 15:51:21 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 341 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 15:51:21 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:11
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(341): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 11
+[09-Nov-2017 15:54:39 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 15:54:39 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 15:54:39 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 341 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 15:54:39 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:11
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(341): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 11
+[09-Nov-2017 15:59:37 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 15:59:37 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 15:59:37 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 344 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 15:59:37 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:11
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(344): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 11
+[09-Nov-2017 16:00:55 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 16:00:55 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 16:00:55 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 341 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 16:00:55 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:11
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(341): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 11
+[09-Nov-2017 16:04:05 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 16:04:05 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 16:04:05 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 341 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 16:04:05 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:11
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(341): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 11
+[09-Nov-2017 16:08:33 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 16:08:33 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 16:08:33 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 341 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 16:08:33 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:11
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(341): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 11
+[09-Nov-2017 16:18:36 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 341 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 16:51:22 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 346 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 16:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DriverBD::addtoCar() in /home/motoraic/public_html/micro/MisClases/Compra.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 347
+[09-Nov-2017 16:53:54 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 346 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 16:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DriverBD::gser() in /home/motoraic/public_html/micro/MisClases/Compra.php:15
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(347): Compra->addtoCar('kjsdhkshdk', 1, 48)
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 15
+[09-Nov-2017 16:55:07 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 346 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 16:55:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DriverBD::gser() in /home/motoraic/public_html/micro/MisClases/Compra.php:15
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(347): Compra->addtoCar(43, 1, 'sdkhkjsdhksd')
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 15
+[09-Nov-2017 16:59:10 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 346 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 16:59:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DriverBD::nnbd() in /home/motoraic/public_html/micro/MisClases/Compra.php:15
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(347): Compra->addtoCar(43, 1, 'sdkhkjsdhksd')
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 15
+[09-Nov-2017 18:01:26 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 346 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 18:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DriverBD::nnbd() in /home/motoraic/public_html/micro/MisClases/Compra.php:15
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(347): Compra->addtoCar(43, 1, 'sdkhkjsdhksd')
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 15
+[09-Nov-2017 18:03:57 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 347 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 18:03:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DriverBD::nnbd() in /home/motoraic/public_html/micro/MisClases/Compra.php:16
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(348): Compra->addtoCar(43, 1, 'sdkhkjsdhksd')
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 16
+[09-Nov-2017 18:06:34 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 350 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 18:06:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DriverBD::nnbd() in /home/motoraic/public_html/micro/MisClases/Compra.php:18
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(351): Compra->addtoCar(43, 1, 'sdkhkjsdhksd')
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 18
+[09-Nov-2017 18:07:31 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 350 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 18:07:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DriverBD::nbd() in /home/motoraic/public_html/micro/MisClases/Compra.php:18
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(351): Compra->addtoCar(43, 1, 'sdkhkjsdhksd')
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 18
+[09-Nov-2017 18:08:49 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 350 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 18:08:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DriverBD::nbd() in /home/motoraic/public_html/micro/MisClases/Compra.php:18
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(351): Compra->addtoCar(43, 1, 'sdkhkjsdhksd')
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 18
+[09-Nov-2017 18:10:05 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 350 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 18:10:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DriverBD::nbd() in /home/motoraic/public_html/micro/MisClases/Compra.php:18
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(351): Compra->addtoCar(43, 1, 'sdkhkjsdhksd')
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 18
+[09-Nov-2017 18:11:04 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 350 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 18:15:31 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 350 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 18:20:46 UTC] PHP Warning:  Missing argument 1 for Compra::__construct(), called in /home/motoraic/public_html/micro/MisClases/Compra.php on line 350 and defined in /home/motoraic/public_html/micro/MisClases/Compra.php on line 8
+[09-Nov-2017 22:40:46 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 22:40:46 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 22:40:46 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[09-Nov-2017 22:40:46 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[09-Nov-2017 22:40:46 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:13
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(373): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 13
+[09-Nov-2017 22:53:42 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 22:53:42 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 22:53:42 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[09-Nov-2017 22:53:42 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[09-Nov-2017 22:53:42 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:13
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(372): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 13
+[09-Nov-2017 22:58:08 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 22:58:08 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 22:58:08 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[09-Nov-2017 22:58:08 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[09-Nov-2017 22:58:08 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:13
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(372): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 13
+[09-Nov-2017 22:58:48 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 22:58:48 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 22:58:48 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[09-Nov-2017 22:58:48 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[09-Nov-2017 22:59:27 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 22:59:27 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[09-Nov-2017 22:59:27 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[09-Nov-2017 22:59:27 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[09-Nov-2017 22:59:27 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:13
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(372): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 13
+[10-Nov-2017 00:20:31 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 00:20:31 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 00:20:31 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 00:20:31 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 00:20:31 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:13
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(373): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 13
+[10-Nov-2017 00:25:38 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 00:25:38 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 00:25:38 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 00:25:38 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 00:25:38 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:13
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(373): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 13
+[10-Nov-2017 00:27:01 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 00:27:01 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 00:27:01 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 00:27:01 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 00:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:13
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(373): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 13
+[10-Nov-2017 01:22:25 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 01:22:25 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 01:22:25 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 01:22:25 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 01:22:25 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:14
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(362): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 14
+[10-Nov-2017 01:43:17 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 01:43:17 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 01:43:17 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 01:43:17 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 01:43:17 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:14
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(362): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 14
+[10-Nov-2017 01:44:48 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 01:44:48 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 01:44:48 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 01:44:48 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 01:44:48 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:14
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(362): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 14
+[10-Nov-2017 18:25:44 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home/motoraic/public_html/micro/MisClases/Compra.php on line 518
+[10-Nov-2017 18:36:42 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home/motoraic/public_html/micro/MisClases/Compra.php on line 208
+[10-Nov-2017 18:37:23 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home/motoraic/public_html/micro/MisClases/Compra.php on line 208
+[10-Nov-2017 18:38:16 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home/motoraic/public_html/micro/MisClases/Compra.php on line 208
+[10-Nov-2017 19:53:25 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home/motoraic/public_html/micro/MisClases/Compra.php on line 208
+[10-Nov-2017 19:54:41 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home/motoraic/public_html/micro/MisClases/Compra.php on line 208
+[10-Nov-2017 20:08:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/motoraic/public_html/micro/MisClases/Compra.php on line 235
+[10-Nov-2017 20:09:04 UTC] PHP Warning:  include(MisClases/DriverBD.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 20:09:04 UTC] PHP Warning:  include(): Failed opening 'MisClases/DriverBD.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 2
+[10-Nov-2017 20:09:04 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 20:09:04 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 20:09:04 UTC] PHP Fatal error:  Uncaught Error: Class 'DriverBD' not found in /home/motoraic/public_html/micro/MisClases/Compra.php:14
+Stack trace:
+#0 /home/motoraic/public_html/micro/MisClases/Compra.php(240): Compra->__construct()
+#1 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/Compra.php on line 14
+[10-Nov-2017 20:23:48 UTC] PHP Warning:  include(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 20:23:48 UTC] PHP Warning:  include(): Failed opening 'MisClases/Shika.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 3
+[10-Nov-2017 21:36:48 UTC] PHP Warning:  require_once(MisClases/Shika.php): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/Compra.php on line 4
+[10-Nov-2017 21:36:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'MisClases/Shika.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/Compra.php on line 4
+[21-Mar-2018 15:32:17 UTC] PHP Warning:  include(Pdfphp): failed to open stream: No such file or directory in /home/motoraic/public_html/micro/MisClases/tester.php on line 2
+[21-Mar-2018 15:32:17 UTC] PHP Warning:  include(): Failed opening 'Pdfphp' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/motoraic/public_html/micro/MisClases/tester.php on line 2
+[21-Mar-2018 15:32:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Pdf' not found in /home/motoraic/public_html/micro/MisClases/tester.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/tester.php on line 3
+[21-Mar-2018 15:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to private method Pdf::notificarme() from context '' in /home/motoraic/public_html/micro/MisClases/tester.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/tester.php on line 4
+[21-Mar-2018 15:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Pdf::notificarme() in /home/motoraic/public_html/micro/MisClases/tester.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/tester.php on line 4
+[21-Mar-2018 15:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Pdf::notificarme() in /home/motoraic/public_html/micro/MisClases/tester.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/tester.php on line 4
+[21-Mar-2018 15:53:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Pdf::notificarme() in /home/motoraic/public_html/micro/MisClases/tester.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/tester.php on line 4
+[21-Mar-2018 16:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Pdf::notificarme() in /home/motoraic/public_html/micro/MisClases/tester.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/tester.php on line 4
+[21-Mar-2018 16:02:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Pdf::notificarme() in /home/motoraic/public_html/micro/MisClases/tester.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/tester.php on line 4
+[21-Mar-2018 16:04:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Pdf::notificarme() in /home/motoraic/public_html/micro/MisClases/tester.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/tester.php on line 4
+[21-Mar-2018 16:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Pdf::notificarme() in /home/motoraic/public_html/micro/MisClases/tester.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/tester.php on line 4
+[21-Mar-2018 16:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Pdf::notificarme() in /home/motoraic/public_html/micro/MisClases/tester.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/tester.php on line 4
+[21-Mar-2018 16:20:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Pdf::notificarme() in /home/motoraic/public_html/micro/MisClases/tester.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/motoraic/public_html/micro/MisClases/tester.php on line 4
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53
+[21-Mar-2018 21:08:32 UTC] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home/motoraic/public_html/micro/MisClases/Pdf.php on line 53

@@ -1,0 +1,5 @@
+.home-link2{ color:#FFFFFF; display:block;font-size:13px;font-weight:bold;
+    line-height:26px;padding:10px 20px 11px;position:relative;border-bottom:1px solid #232323;
+}
+.home-link2:before{font-size:26px;margin-right:12px;}
+.home-link2:hover{background-color:#444444;}
